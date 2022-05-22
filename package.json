@@ -1,0 +1,17 @@
+{
+  "name": "cabal-sauron",
+  "version": "1.0.0",
+  "description": "Passively watch a cabal",
+  "main": "modules/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "daniel.chiquito@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "cabal-client": "^7.2.2"
+  },
+  "devDependencies": {
+    "standard": "^12.0.1"
+  }
+}
